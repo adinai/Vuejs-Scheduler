@@ -1,4 +1,4 @@
-# vcrashcourseui
+# Vuejs-Scheduler
 
 ## Project setup
 ```
